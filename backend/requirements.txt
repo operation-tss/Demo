@@ -1,0 +1,11 @@
+fastapi>=0.104.0
+uvicorn>=0.24.0
+python-multipart>=0.0.9
+pydantic>=2.4.0
+pymupdf>=1.23.0
+pytesseract>=0.3.10
+pillow>=10.0.0
+opencv-python-headless>=4.8.0
+reportlab>=4.0.0
+sqlmodel>=0.0.14
+pyodbc>=5.0.0
